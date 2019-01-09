@@ -37,9 +37,10 @@ documents in printed and electronic form.
 Additional sources of income are registration and license fees, if any.
 
 ## 4 Membership
-1. The principal organs of “Hydra-CG” are:
-1. the chairman
-2. the board
+1 The principal organs of “Hydra-CG” are:
+
+* the chairman
+* the board
 
 2 Definition of roles. 
 1. <~definition of chairman~>
