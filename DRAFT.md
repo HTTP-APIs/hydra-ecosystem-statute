@@ -29,7 +29,7 @@ These official tools are open source software.
 * (b) Coordinate research projects, support communication
 * (c) Operate Internet information systems like email, FTP or HTTP Servers.
 * (d) Organize and sponsor scientific conferences and workshops, represent Hydra-CG at relevant conferences sponsored
-by others, and promote the use and development of R and R-related software.
+by others, and promote the use and development of Hydra specification and Hydra-related software.
 * (e) Publish manuals, technical standards, periodicals, journal articles and other Hydra-related
 documents in printed and electronic form.
 * (f) Issue and administer licenses for the published tools software and documentation.
