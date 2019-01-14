@@ -34,7 +34,6 @@ by others, and promote the use and development of Hydra specification and Hydra-
 documents in printed and electronic form.
 * (f) Issue and administer licenses for the published tools software and documentation.
 2. The material means of the organization to meet its objectives will come from donations, and contributions.
-Additional sources of income are registration and license fees, if any.
 
 ## 4 Membership
 1 The principal organs of “Hydra-CG” are:
