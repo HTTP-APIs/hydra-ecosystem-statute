@@ -1,4 +1,4 @@
-# Statute of Hydra Community Group
+# Statute of <~full name to be defined~>
 
 The Hydra Community Group Board, <~add date here~>
 
