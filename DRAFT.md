@@ -21,7 +21,7 @@ These official tools are open source software.
 * (b) Advance and disseminate knowledge about HTTP protocol and REST paradigm
 * (c) Represent and communicate the will of the Hydra Community Group to the public
 * (d) Promote the ethical values embodied by World Wide Web Consortium
-* (e) Hold and administer the copyright for the specification, official tools and documentation.
+* (e) Hold and administer the copyright for the tools and documentation developed.
 
 ## 3 Means to Meet the Objectives
 1. To meet its objectives the organization will especially
