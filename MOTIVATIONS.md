@@ -8,10 +8,12 @@ develop REST APIs using Hydra and create proper tools to facilitate this adoptio
  source according to the objectives.  
 
 Advantages:
-* The Open Source landscape is by definition fragmented and many players present themselves to their possible user-base, that
- can be made of single users, companies or other OS organisations. To be properly represented among these by organising their
- present online and through events.
- * ...
+* The Open Source landscape is by definition fragmented and many players present themselves to their possible user-base; that
+ can be made of single users, companies or other OS organisations. It is important to be properly represented among these by
+ planning our public exposure online and through events. 
+* The Organisation can realize a consistent representation of the developing efforts of the Community, so that achievements
+ and objectives can be clearly represented to the public.
+ * The Organisation can be the trend-setter for defining quality standards for official tools. 
 
 Disadvantage:
 * Book-keeping
