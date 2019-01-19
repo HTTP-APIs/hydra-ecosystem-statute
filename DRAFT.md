@@ -3,7 +3,7 @@
 The Hydra Community Group Board, <~add date here~>
 
 ## 1 Name, Seat and Field of Activity
-1. The organization is named “Hydra Community Group”, abbreviated as “Hydra-CG”,
+1. The organization is named “<full name to be defined>”, abbreviated as “Hydra-CG”,
 which will be used throughout this document.
 2. It is seated in <~a place or we can remove this part~> and is active worldwide.
 3. ”Hydra-CG” is formed in <~date~> as an association of its members.
@@ -46,8 +46,15 @@ documents in printed and electronic form.
 2. <~definition for board member~>
 3. <~definition for contributors~>
 
+3 Methods of acquiring membership
+1. For example: at least one year of continuous contribution to development and the support of three members.
+
 ## 5 Governance
 1. All the decisional power is in the Chairman that decides after consulting the Board.
+2. Great relevance has to be posed in keeping Hydra-CG indipendence
+3. <Need to add election and removal of Board memebers>
+4. <Need to add procedure to amend/improve the Statute>
+
 
 ## 6 Current Members
 1. List of members (to be defined)
