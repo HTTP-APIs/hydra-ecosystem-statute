@@ -1,6 +1,6 @@
 # Statute of <~full name to be defined~>
 
-The Hydra Community Group Board, <~add date here~>
+The <~full name to be defined~> Board, <~add date here~>
 
 ## 1 Name, Seat and Field of Activity
 1. The organization is named “<~full name to be defined~>”, abbreviated as “Hydra-CG”,
