@@ -44,7 +44,7 @@ documents in printed and electronic form.
 2 Definition of roles. 
 1. <~definition of chairman~>
 2. <~definition for board member~>
-3. <~definition for contributors~>
+3. <~definition for members/contributors~>
 
 3 Methods of acquiring membership
 1. For example: at least one year of continuous contribution to development and the support of three members.
@@ -52,7 +52,7 @@ documents in printed and electronic form.
 ## 5 Governance
 1. All the decisional power is in the Chairman that decides after consulting the Board.
 2. Great relevance has to be posed in keeping Hydra-CG indipendence
-3. <~Need to add election and removal of Board memebers~>
+3. <~Need to add election and removal of Board members~>
 4. <~Need to add procedure to amend/improve the Statute~>
 
 
