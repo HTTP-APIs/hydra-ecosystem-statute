@@ -3,7 +3,7 @@
 The Hydra Community Group Board, <~add date here~>
 
 ## 1 Name, Seat and Field of Activity
-1. The organization is named “<full name to be defined>”, abbreviated as “Hydra-CG”,
+1. The organization is named “<~full name to be defined~>”, abbreviated as “Hydra-CG”,
 which will be used throughout this document.
 2. It is seated in <~a place or we can remove this part~> and is active worldwide.
 3. ”Hydra-CG” is formed in <~date~> as an association of its members.
