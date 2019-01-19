@@ -52,12 +52,12 @@ documents in printed and electronic form.
 ## 5 Governance
 1. All the decisional power is in the Chairman that decides after consulting the Board.
 2. Great relevance has to be posed in keeping Hydra-CG indipendence
-3. <Need to add election and removal of Board memebers>
-4. <Need to add procedure to amend/improve the Statute>
+3. <~Need to add election and removal of Board memebers~>
+4. <~Need to add procedure to amend/improve the Statute~>
 
 
 ## 6 Current Members
-1. List of members (to be defined)
+1. List of funding members (to be defined)
 
 
 
