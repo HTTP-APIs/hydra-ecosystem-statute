@@ -39,11 +39,12 @@ documents in printed and electronic form.
 * the "Deck" (the "board" or "assembly" of members)
 
 2 Definition of roles. 
-1. <~definition for contributor~>
+1. <~definition for contributor->
 2. <~definition for contributor with voting privileges->
 
 3 Methods of acquiring membership
 1. For example: at least one year of continuous contribution to development and the support of three members.
+2. under development in `MOTIVATIONS`
 
 ## 5 Governance
 1. All the decisional power is in the "Deck".
