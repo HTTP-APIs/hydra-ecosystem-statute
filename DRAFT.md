@@ -5,8 +5,8 @@ The Hydra Ecosystem "Deck" ("Board"), <~add date here~>
 ## 1 Name, Seat and Field of Activity
 1. The organization is named "Hydra Ecosystem", abbreviated as "HyeCo" (phonetically as `/haɪkə/`)
 2. It is seated in London and is active worldwide.
-3. "Hydra Ecosystem" is formed in <~date~> as an association of its founding members.
-See relative sections for founding, contributing, honorific members 
+3. "Hydra Ecosystem" is an Unincorporated Association
+4. "Hydra Ecosystem" is formed in <~date~> as an association of its founding members. See relative sections for founding, contributing and voting members.
 
 ## 2 Objectives
 1. Fundamentals
