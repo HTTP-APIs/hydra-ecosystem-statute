@@ -34,3 +34,6 @@ Major objectives have to be defined and possibly written into flow charts and ev
 * (i.e. Accounting of reources takes place in a platform that allows transparent allocation. Allocation of resources is a duty of the Deck that define a "Checker" (a treasurer). In the beginning and until changes the "starting Founders" are also all checkers)
 
 The objective is to have these procedures all automated via a Web-app and the results stored in a DAG.
+
+#### Official Point of Contacts
+* Deck: collaborative mailbox
