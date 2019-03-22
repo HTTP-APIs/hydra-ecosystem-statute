@@ -18,6 +18,8 @@ Disadvantage:
 * More responsibilities because of resource allocation
 * ...
 
+As reference use this [collection of guidelines](https://opensource.guide)
+
 ### Objectives of the Statute
 Major objectives have to be defined and possibly written into flow charts and eventually into a repository that allows to compute via a CLI the status of a member according to different variables. Examples are carried below through "i.e."s:
 
