@@ -41,6 +41,7 @@ documents in printed and electronic form.
 2 Definition of roles. 
 1. <~definition for contributor->
 2. <~definition for contributor with voting privileges->
+3. <-definition of committer->
 
 3 Methods of acquiring membership
 1. For example: at least one year of continuous contribution to development and the support of three members.
