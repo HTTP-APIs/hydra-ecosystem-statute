@@ -37,3 +37,4 @@ The objective is to have these procedures all automated via a Web-app and the re
 
 #### Official Point of Contacts
 * Deck: collaborative mailbox
+* Community Announcements and Opinions Forum: hydraecosystem@googlegroups.com
