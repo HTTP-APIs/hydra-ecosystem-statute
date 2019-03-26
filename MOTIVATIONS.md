@@ -20,7 +20,7 @@ Disadvantage:
 
 As reference use this [collection of guidelines](https://opensource.guide)
 
-### Objectives of the Statute
+### Objectives of the Statute: Community ruling
 Major objectives have to be defined and possibly written into flow charts and eventually into a repository that allows to compute via a CLI the status of a member according to different variables. Examples are carried below through "i.e."s:
 
 * Create a *governance* mechanism that defines a "Deck" (like a "Board" or a "Assembly") where decisions are taken, and establish clear rules about who can be a candidate and enter the decision-making process. A contributor with decision-making privileges is a "legate" or "holds a legation" (same root as "legacy").
