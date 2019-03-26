@@ -31,7 +31,7 @@ Major objectives have to be defined and possibly written into flow charts and ev
 * Define a *mechanism to change this Statute* (i.e. In the case that the Deck is larger than 3, the Statute can be changed according to a proposal submitted by 50% of the Deck and voted by the 2/3. For this special voting sessions, Founders' vote shall be computed as 2. For smaller Deck, 100% of votes is required. The initial revision of the Statute itself has to be voted by the 100% of the Founders)
 * (i.e. The status of Founder is acquired because of being a "starting Founder" (founders that signed the first revision of this Statute) or because assigned by 100% of the active Founders to other contributors for exceptional contributions to the Community, "adding Founder").
 * (i.e. The activity of governance take place in the Forum at https://groups.google.com/d/forum/hydraecosystem)
-* (i.e. Accounting of reources takes place in a platform that allows transparent allocation. Allocation of resources is a duty of the Deck that define a "Checker" (a treasurer). In the beginning and until changes the "starting Founders" are also all checkers)
+* (i.e. Accounting of reources takes place in a platform that allows transparent allocation (https://opencollective.com/hydra-ecosystem). Allocation of resources is a duty of the Deck that define a "Checker" (a treasurer) and a deputy. In the beginning and until changes the "starting Founders" are also all checkers)
 
 The objective is to have these procedures all automated via a Web-app and the results stored in a DAG.
 
