@@ -38,3 +38,4 @@ The objective is to have these procedures all automated via a Web-app and the re
 #### Official Point of Contacts
 * Deck: collaborative mailbox
 * Community Announcements and Opinions Forum: hydraecosystem@googlegroups.com
+* According to [this paper](https://arxiv.org/pdf/1608.03608.pdf) the optimal scale of a large/popular OSS project is 30-50 active contributors
